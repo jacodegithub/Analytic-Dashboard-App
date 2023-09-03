@@ -1,0 +1,27 @@
+.navbar {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    gap: 10px;
+    cursor: pointer;
+}
+.bxs-castle {
+    font-size: 2rem;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    gap: 20px;
+}

@@ -1,0 +1,16 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+footer span:first-child {
+    font-size: .9rem;
+    font-weight: bold;
+}
+
+footer span:last-child {
+    font-size: .8rem;
+    font-weight: bold;
+}
